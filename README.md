@@ -76,6 +76,7 @@ def input_nilaiUas():
     return nilaiUas
 ```
 - Screenshot
+![Input Nilai](https://user-images.githubusercontent.com/56241745/72255039-49a77080-3638-11ea-87d9-6d38867c4f61.png)
 
 # Package Daftar Nilai
 ```
