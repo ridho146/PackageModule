@@ -118,7 +118,8 @@ def hapus_data():
         print("Data Mahasiswa Tidak Ada".format(nama))
 ```
 - Screenshot
-
+![Daftar Nilai 1](https://user-images.githubusercontent.com/56241745/72255436-4bbdff00-3639-11ea-9b8a-557edc12551f.png)
+![Daftar Nilai 2](https://user-images.githubusercontent.com/56241745/72255437-4bbdff00-3639-11ea-9bc5-4f91339bb292.png)
 # Package View Nilai
 ```
 from model.daftar_nilai import *
@@ -158,7 +159,8 @@ def cetak_hasil_pencarian():
         print("Datanya {0} Tidak Ada ".format(nama))
 ```
 - Screenshot
-
+![View Nilai 1](https://user-images.githubusercontent.com/56241745/72255442-4c569580-3639-11ea-9ec3-bd8412d67c48.png)
+![View Nilai 2](https://user-images.githubusercontent.com/56241745/72255443-4c569580-3639-11ea-9b70-2a917fa5b9b6.png)
 # Main
 ```
 from model.daftar_nilai import *
@@ -189,3 +191,4 @@ while True:
         print("Silahkan pilih menu yang tersedia!")
 ```
 - Screenshot
+![Main](https://user-images.githubusercontent.com/56241745/72255439-4c569580-3639-11ea-961e-48ab33361a35.png)
